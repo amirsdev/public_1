@@ -1,2 +1,3 @@
 # public_1
-for testing 
+this repo is for doing stuff with git for learning purpose.
+try diffrent commands for git ....
